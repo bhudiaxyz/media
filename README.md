@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/bhudiaxyz/media/edit/maste
 
 ### Site users 
 
-Media accesses via  https://www.bhudia.xyz/media
+Media accessed via  https://www.bhudia.xyz/media
 
 And media central for these:
 - http://www.bhudia.co
