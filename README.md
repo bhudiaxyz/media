@@ -1,6 +1,6 @@
 ## Welcome to Media Central
 
-This houses all media accessed directly via http://www.bhudia.xyz/media, and indirectly via:
+This houses all media accessed directly via https://www.bhudia.xyz/media, and indirectly via:
 - http://media.bhudia.co
 - http://media.bhudia.xyz
 - http://media.quedex.co
