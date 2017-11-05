@@ -1,10 +1,9 @@
 ## Welcome to Media Central
 
-You can use the [editor on GitHub](https://github.com/bhudiaxyz/media/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-### Site users 
-
-Media accessed via  https://www.bhudia.xyz/media
+This houses all media accessed directly via http://www.bhudia.xyz/media, and indirectly via:
+- http://media.bhudia.co
+- http://media.bhudia.xyz
+- http://media.quedex.co
 
 And media central for these:
 - http://www.bhudia.co
