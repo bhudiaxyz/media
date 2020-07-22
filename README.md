@@ -10,5 +10,5 @@ And media central for these:
 - http://www.bhudia.xyz
 - http://www.quedex.co
 - https://bhupendra-bhudia.github.io
-- http://bhudia.webhop.me
+- http://bhudiahome.webhop.me
 
